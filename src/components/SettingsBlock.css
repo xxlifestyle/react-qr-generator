@@ -1,0 +1,23 @@
+.block-settings{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 340px;
+    margin: auto;
+  background-color: #242582;
+ 
+  border: 2px solid #99738E;
+  
+}
+.block-settings img{
+    width:200px;
+    margin: auto;
+  
+   
+}
+
+.block-settings input{
+    height: 40px;
+    
+    
+}
